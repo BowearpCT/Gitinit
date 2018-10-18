@@ -1,5 +1,4 @@
 
-public class Main {
 	import java.util.Scanner;
 
 public class Main {
@@ -11,9 +10,9 @@ public class Main {
 		
 		Hello hello = new Hello();
 		hello.setName(str);
-		System.out.println(hello.getName);
+		System.out.println(hello.getName());
 	}
 
 }
 
-}
+
